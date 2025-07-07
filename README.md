@@ -23,7 +23,7 @@ This project is a Virtual Reality (VR) safety training program focused on operat
 
 ### Installation
 
-1. **Download the VR_simulator.rar** from [here](#).
+1. **Download the VR_simulator.rar** from [here](https://github.com/jaypatel2103/VR-belt-grinder-safety-training).
 2. **Extract the files** to a directory of your choice.
 3. **Open the project** in Unity:
    - Launch Unity Hub.
